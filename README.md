@@ -1,4 +1,5 @@
 # RNA-seq Analysis of Primary Human CD8+ T-cell Activation
+**End-to-end bulk RNA-seq analysis from raw FASTQ files to differential expression and pathway-level interpretation.**
 
 ## Overview
 
@@ -7,6 +8,10 @@ This project presents an end-to-end RNA-seq analysis of primary human CD8+ T cel
 The analysis compares unstimulated CD8+ T cells (0 h) with cells collected 24 hours after CD3/CD28 stimulation using publicly available RNA-seq data from GEO (GSE212353).
 
 The goal was to characterize transcriptional changes associated with early T-cell activation and to demonstrate a reproducible RNA-seq workflow starting from raw sequencing reads.
+
+## Scientific Question
+
+**How does CD3/CD28 stimulation alter the transcriptomic state of primary human CD8+ T cells after 24 hours?**
 
 ## Dataset
 
