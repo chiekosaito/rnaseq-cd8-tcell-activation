@@ -1,0 +1,28 @@
+# Raw sequencing data
+raw_fastq/
+
+# Reference genome / transcriptome files
+reference/
+
+# Salmon quantification output
+salmon_quant/
+
+# Large intermediate files
+alignment/
+counts/
+trimmed/
+qc/
+
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS files
+.DS_Store
+Thumbs.db
+author_counts/
+
+scripts/gsea_analysis_backup.R
+results/author_STAR_validation_results.rds
+results/GSEA_GO_BP_24h_vs_0h.png
